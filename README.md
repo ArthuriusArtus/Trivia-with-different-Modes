@@ -3,3 +3,5 @@ I'm currently getting into Coding (C#) and this is just a little project for tra
 
 And also feel free to critize anything or give me some tips 
 Appreciate it 
+
+(Currently in Progress)
